@@ -8,7 +8,9 @@ A Laravel-based system for visualize marketing commissions.
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" style="width: 48%; height: auto;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Payments-Page.png" style="width: 48%; height: auto;">
 </div>
+
 #
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-1.png" style="width: 48%; height: auto;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-2.png" style="width: 48%; height: auto;">
@@ -22,28 +24,28 @@ A Laravel-based system for visualize marketing commissions.
 
 ## Installation Steps
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/muhammadaliyusuf/marketing-commission.git
 cd marketing-commission
 ```
 
-2. Install PHP dependencies:
+2. **Install PHP dependencies:**
 ```bash
 composer install
 ```
 
-3. Create environment file:
+3. **Create environment file:**
 ```bash
 cp .env.example .env
 ```
 
-4. Generate application key:
+4. **Generate application key:**
 ```bash
 php artisan key:generate
 ```
 
-5. Copy the generated key:
+5. **Copy the generated key:**
    - The key will be automatically added to your .env file
    - If not added automatically, copy the generated key (it will look like: base64:xxxxxxxxx...)
    - Open your .env file and paste the key in the APP_KEY field:
@@ -52,7 +54,7 @@ php artisan key:generate
 APP_KEY=base64:your_generated_key_here
 ```
 
-6. Configure database connection in `.env` file:
+6. **Configure database connection in `.env` file:**
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -62,12 +64,12 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-7. Run database migrations:
+7. **Run database migrations:**
 ```bash
 php artisan migrate
 ```
 
-8. Run database seeders:
+8. **Run database seeders:**
 ```bash
 php artisan db:seed
 php artisan db:seed --class=PaymentSeeder
