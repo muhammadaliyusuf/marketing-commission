@@ -1,6 +1,16 @@
 # Marketing Commission
 
-A Laravel-based system for managing marketing commissions.
+A Laravel-based system for visualize marketing commissions.
+
+#
+## Application Overview
+
+<p float="left">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/List-Payments-Page.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/Payment-Detail-1.png" width="250" height="500">
+  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/Payment-Detail-2.png" width="250" height="500">
+</p>
 
 ## Prerequisites
 
@@ -131,7 +141,7 @@ The database migrations will create the following structure:
 
 ## Disclaimer
 
--   This project was developed as part of the assessment process required for recruitment at [**_PT. Herca Cipta Dermal Perdana_**.]
+-   This project was developed as part of the assessment process required for recruitment at **_PT. Herca Cipta Dermal Perdana_**.
 
 ## Contact
 
