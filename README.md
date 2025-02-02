@@ -4,12 +4,12 @@ A Laravel-based system for visualize marketing commissions.
 
 ## Application Overview
 
-<p float="left">
-  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" width="713" height="503">
-  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Payments-Page.png" width="713" height="503">
-  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-1.png" width="713" height="503">
-  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-2.png" width="713" height="503">
-</p>
+<div align="center">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" width="45%">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Payments-Page.png" width="45%">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-1.png" width="45%">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-2.png" width="45%">
+</div>
 
 ## Prerequisites
 
