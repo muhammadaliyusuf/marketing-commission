@@ -2,14 +2,13 @@
 
 A Laravel-based system for visualize marketing commissions.
 
-#
 ## Application Overview
 
 <p float="left">
-  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" width="250" height="500">
-  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/List-Payments-Page.png" width="250" height="500">
-  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/Payment-Detail-1.png" width="250" height="500">
-  <img src="https://github.com/C22-PS292/Lakon/blob/main/ApplicationOverview/Payment-Detail-2.png" width="250" height="500">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" width="250" height="500">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Payments-Page.png" width="250" height="500">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-1.png" width="250" height="500">
+  <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-2.png" width="250" height="500">
 </p>
 
 ## Prerequisites
