@@ -8,9 +8,7 @@ A Laravel-based system for visualize marketing commissions.
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Marketing-Commission-Page.png" style="width: 48%; height: auto;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/List-Payments-Page.png" style="width: 48%; height: auto;">
 </div>
-
-#
-
+<br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-1.png" style="width: 48%; height: auto;">
   <img src="https://github.com/muhammadaliyusuf/marketing-commission/blob/main/ApplicationOverview/Payment-Detail-2.png" style="width: 48%; height: auto;">
@@ -46,6 +44,7 @@ php artisan key:generate
 ```
 
 5. **Copy the generated key:**
+   
    - The key will be automatically added to your .env file
    - If not added automatically, copy the generated key (it will look like: base64:xxxxxxxxx...)
    - Open your .env file and paste the key in the APP_KEY field:
